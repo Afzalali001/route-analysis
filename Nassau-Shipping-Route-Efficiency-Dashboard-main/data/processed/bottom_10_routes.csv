@@ -1,0 +1,11 @@
+Factory_State_Route,Total_Shipments,Average_Lead_Time,Lead_Time_Variability,Route_Rank
+Secret Factory → South Carolina,1,12.0,,187
+Secret Factory → Alberta,2,12.0,4.242640687119285,188
+Wicked Choccy's → Saskatchewan,2,12.5,2.1213203435596424,189
+The Other Factory → Colorado,2,12.5,0.7071067811865476,190
+Lot's O' Nuts → Vermont,5,12.6,3.781534080237808,191
+Secret Factory → Connecticut,1,13.0,,192
+Sugar Shack → Pennsylvania,3,13.333333333333334,1.5275252316519468,193
+The Other Factory → Nevada,1,14.0,,194
+Sugar Shack → New Jersey,1,14.0,,195
+The Other Factory → Missouri,1,15.0,,196
