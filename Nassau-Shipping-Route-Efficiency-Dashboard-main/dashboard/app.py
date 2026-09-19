@@ -323,7 +323,7 @@ st.markdown("""
 
 **Project:** Factory-to-Customer Shipping Route Efficiency Analysis
 
-**Developed By:** Yash
+**Developed By:** Mohammed Afzal Ali
 
 **Tools Used:** Python | Pandas | Streamlit | Plotly
 """)
